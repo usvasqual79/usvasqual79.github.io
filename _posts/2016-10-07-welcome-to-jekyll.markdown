@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Jacklegs Online!"
 date:   2016-10-07 22:26:03 -0400
 categories: jekyll update
 ---
